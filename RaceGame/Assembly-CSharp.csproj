@@ -46,9 +46,19 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Player_Movement.cs" />
-     <Compile Include="Assets\Player_Respawn.cs" />
-     <Compile Include="Assets\Player_Rotation.cs" />
+     <Compile Include="Assets\Projectile.cs" />
+     <Compile Include="Assets\Scripts\AI\AI.cs" />
+     <Compile Include="Assets\Scripts\Pickups\Boost.cs" />
+     <Compile Include="Assets\Scripts\Pickups\Pickup.cs" />
+     <Compile Include="Assets\Scripts\Pickups\PowerUpDatabase.cs" />
+     <Compile Include="Assets\Scripts\Pickups\PowerUps.cs" />
+     <Compile Include="Assets\Scripts\Pickups\Seeker.cs" />
+     <Compile Include="Assets\Scripts\Pickups\Shard.cs" />
+     <Compile Include="Assets\Scripts\Pickups\StarPower.cs" />
+     <Compile Include="Assets\Scripts\Player\Player_Health.cs" />
+     <Compile Include="Assets\Scripts\Player\Player_Movement.cs" />
+     <Compile Include="Assets\Scripts\Player\Player_Respawn.cs" />
+     <Compile Include="Assets\Scripts\Player_Powers.cs" />
      <Compile Include="Assets\Scripts\Utils\Tags.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />

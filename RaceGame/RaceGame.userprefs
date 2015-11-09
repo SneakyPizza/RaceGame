@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Project 1\RPG\RPG\Assets\Scripts\Items\Inventory.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player_Powers.cs">
     <Files>
-      <File FileName="..\..\..\Project 1\RPG\RPG\Assets\Scripts\Items\Item.cs" Line="23" Column="3" />
-      <File FileName="..\..\..\Project 1\RPG\RPG\Assets\Scripts\Items\Inventory.cs" Line="100" Column="43" />
-      <File FileName="..\..\..\Project 1\RPG\RPG\Assets\Scripts\Items\ItemDatabase.cs" Line="11" Column="30" />
-      <File FileName="..\..\..\Project 1\RPG\RPG\Assets\Scripts\Items\Wooden_Axe.cs" Line="5" Column="31" />
+      <File FileName="Assets\Scripts\Player\Player_Movement.cs" Line="78" Column="52" />
+      <File FileName="Assets\Scripts\Pickups\Pickup.cs" Line="18" Column="5" />
+      <File FileName="Assets\Scripts\Pickups\PowerUps.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player_Powers.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Pickups\PowerUpDatabase.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
